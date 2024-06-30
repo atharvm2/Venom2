@@ -18,9 +18,9 @@ loop = asyncio.get_event_loop()
 
 TOKEN ='7422325078:AAHMCLexek4tG7GK9EOnBcotV8AIkoCioTU'
 MONGO_URI = 'mongodb+srv://VENOMxCRAZY:CRAZYxVENOM@cluster0.ythilmw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0&tlsAllowInvalidCertificates=true'
-FORWARD_CHANNEL_ID = -4203568250
-CHANNEL_ID = -4203568250
-error_channel_id = -4203568250
+FORWARD_CHANNEL_ID = -4238300319
+CHANNEL_ID = -4238300319
+error_channel_id = -4238300319
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
